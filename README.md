@@ -26,7 +26,7 @@ Getting up and running is as easy as 1, 2, 3.
 ## Help
 
 For more information i have provide postman collection link for further reference
- Collection Link : http://docs.feathersjs.com
+ Collection Link : https://www.getpostman.com/collections/efc64622868ee1deddec
 
 - Initial release
 
