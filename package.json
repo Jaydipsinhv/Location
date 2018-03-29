@@ -8,9 +8,7 @@
   ],
   "license": "UNLICENSED",
   "repository": {},
-  "author": {
-    "name": "Jaydipsinh Vaghela <jaydip.vaghela@sublimedatasys.com>"
-  },
+  "author": "Jaydipsinh Vaghela",
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -24,6 +22,5 @@
     "mongoskin": "^2.0.3",
     "serve-favicon": "~2.3.0",
     "winston": "^2.3.1"
-  },
-  "author": "Jaydipsinh Vaghela"
+  }
 }
